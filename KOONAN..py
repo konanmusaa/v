@@ -1,3 +1,5 @@
+مشكلتكم م بترسلو صور الصيد🫤
+
 print('DeCoDe By @KO00NAN')
 import requests,bs4,json,os,sys,random,datetime,time,re
 try:
